@@ -35,7 +35,7 @@ The customer module allows the customer to:
 #### Updated Database After Purchase Transaction :
 ![Image of step1Database](https://github.com/pprchang/Bamazon/blob/master/img/customerStep1Database.PNG)
 
-#### Transaction Where There Is NOT Enough Stock :
+#### Transaction Where There Is NOT Enough In Stock :
 ![Image of customerStep2](https://github.com/pprchang/Bamazon/blob/master/img/customerStep2.PNG)
 
 #### Updated Database After Purchase Transaction :
