@@ -10,7 +10,7 @@ Bamazon is an Amazon-like storefront. The app will take in orders from customers
 
 #### Node.js (https://nodejs.org/en/):
 
-#### NPM:
+#### NPM (https://www.npmjs.com/):
 - MySQL (https://www.npmjs.com/package/mysql)
 - Inquirer (https://www.npmjs.com/package/inquirer)
 - Chalk (https://www.npmjs.com/package/chalk)
