@@ -26,10 +26,19 @@ The customer module allows the customer to:
 2. enter how many units of the selected item the customer wants to purchase,
 3. confirm the customer's purchase order if the stock is available however if stock is not available it will allow the customer to change the customer's purchase quantity.
 
+#### Starting Database :
 ![Image of startingDatabase](https://github.com/pprchang/Bamazon/blob/master/img/startingDatabase.PNG)
+
+#### Purchase Transaction :
 ![Image of customerStep1](https://github.com/pprchang/Bamazon/blob/master/img/customerStep1.PNG)
+
+#### Updated Database After Purchase Transaction :
 ![Image of step1Database](https://github.com/pprchang/Bamazon/blob/master/img/customerStep1Database.PNG)
+
+#### Transaction Where There Is NOT Enough Stock :
 ![Image of customerStep2](https://github.com/pprchang/Bamazon/blob/master/img/customerStep2.PNG)
+
+#### Updated Database After Purchase Transaction :
 ![Image of step2Database](https://github.com/pprchang/Bamazon/blob/master/img/customerStep2Database.PNG)
 
 ## *Manger Module* 
