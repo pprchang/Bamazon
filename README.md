@@ -52,8 +52,26 @@ The manger module allows the manger to:
 3. add units to product,
 4. add new products to inventory.
 
-![Image of concert-this](https://github.com/pprchang/liri-node-app/blob/master/img/concert-this.PNG)
+#### Manger Options :
+![Image of MangerOption](https://github.com/pprchang/Bamazon/blob/master/img/MangerOption.PNG)
 
+#### View Inventory :
+![Image of ViewInventory](https://github.com/pprchang/Bamazon/blob/master/img/viewInventory.PNG)
+
+#### View Low Product(s) :
+![Image of ViewLowProducts](https://github.com/pprchang/Bamazon/blob/master/img/lowInventory.PNG)
+
+#### Add Units To Product:
+![Image of AddToProduct](https://github.com/pprchang/Bamazon/blob/master/img/addInventory.PNG)
+
+#### Updated Database After Units Are Added :
+![Image of updatedDatabase](https://github.com/pprchang/Bamazon/blob/master/img/addInventoryDatabase.PNG)
+
+#### Add New Product to Inventory:
+![Image of AddNewProduct](https://github.com/pprchang/Bamazon/blob/master/img/addProduct.PNG)
+
+#### Updated Database After New Product Is Added To Inventory :
+![Image of updatedDatabase](https://github.com/pprchang/Bamazon/blob/master/img/addProductDatabase.PNG)
 
 ## *Contributing* 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  Thank you for your corporation.
