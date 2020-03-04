@@ -26,6 +26,12 @@ The customer module allows the customer to:
 2. enter how many units of the selected item the customer wants to purchase,
 3. confirm the customer's purchase order if the stock is available however if stock is not available it will allow the customer to change the customer's purchase quantity.
 
+![Image of startingDatabase](https://github.com/pprchang/Bamazon/blob/master/img/startingDatabase.PNG)
+![Image of customerStep1](https://github.com/pprchang/Bamazon/blob/master/img/customerStep1.PNG)
+![Image of step1Database](https://github.com/pprchang/Bamazon/blob/master/img/customerStep1Database.PNG)
+![Image of customerStep2](https://github.com/pprchang/Bamazon/blob/master/img/customerStep2.PNG)
+![Image of step2Database](https://github.com/pprchang/Bamazon/blob/master/img/customerStep2Database.PNG)
+
 ## *Manger Module* 
 To run the customer module in terminal:
 ```
